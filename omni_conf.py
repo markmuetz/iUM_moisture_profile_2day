@@ -71,7 +71,7 @@ for expt in expts:
         'type': 'nodes_process',
         'base_dir': 'output',
         'batch': 'batch3',
-        'nodes': ['profile_plots_' + expt],
+        'nodes': ['moist_profile_plots_' + expt],
     }
 
     for bn, bv in zip(base_nodes, base_vars):
@@ -82,10 +82,10 @@ for expt in expts:
 	    'process': 'domain_mean',
 	}
 
-    nodes['profile_plots_' + expt] = {
+    nodes['moist_profile_plots_' + expt] = {
         'type': 'from_nodes',
         'from_nodes': [bn + '_' + expt for bn in base_nodes],
-        'process': 'plot_last_profile',
+        'process': 'plot_last_moist_profile',
     }
 
 variables = {
