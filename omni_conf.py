@@ -11,14 +11,14 @@ computers = {
     'zerogravitas': {
         'remote': 'rdf-comp',
         'remote_address': 'mmuetz@login.rdf.ac.uk',
-        'remote_path': '/nerc/n02/n02/mmuetz/omnis/moist_profile',
+        'remote_path': '/nerc/n02/n02/mmuetz/omnis/iUM_moisture_profile_2day',
         'dirs': {
-            'output': '/home/markmuetz/omni_output/moist_profile/output'
+            'output': '/home/markmuetz/omni_output/iUM_moisture_profile_2day/output'
         }
     },
     'rdf-comp': {
         'dirs': {
-            'output': '/nerc/n02/n02/mmuetz/omni_output/moist_profile/output',
+            'output': '/nerc/n02/n02/mmuetz/omni_output/iUM_moisture_profile_2day/output',
         }
     }
 }
@@ -26,13 +26,13 @@ computers = {
 expts = ['moist_cons', 'no_moist_cons']
 comp = computers['rdf-comp']
 for expt in expts:
-    comp['dirs']['work_' + expt] = '/nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_{0}/work'.format(expt)
-    comp['dirs']['results_' + expt] = '/nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_{}/results'.format(expt)
+    comp['dirs']['work_' + expt] = '/nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_{}/work'.format(expt)
+    comp['dirs']['results_' + expt] = '/nerc/n02/n02/mmuetz/omni_output/iUM_moisture_profile_2day/results_{}'.format(expt)
 
 comp = computers['zerogravitas']
 for expt in expts:
-    comp['dirs']['work_' + expt] = '/home/markmuetz/omni_output/u-af095_64x64km2_1km/work_2day_moist_profile_{0}'.format(expt)
-    comp['dirs']['results_' + expt] = '/home/markmuetz/omni_output/u-af095_64x64km2/results_2day_moist_profile_{}'.format(expt)
+    comp['dirs']['work_' + expt] = '/home/markmuetz/omni_output/iUM_moisture_profile_2day/work_{}'.format(expt)
+    comp['dirs']['results_' + expt] = '/home/markmuetz/omni_output/iUM_moisture_profile_2day/results_{}'.format(expt)
 
 
 batches = odict(('batch{}'.format(i), {'index': i}) for i in range(4))
