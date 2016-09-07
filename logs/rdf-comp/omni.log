@@ -1,0 +1,426 @@
+2016-09-07 11:38:13,731:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:38:13,752:omni        :DEBUG   : omni shell
+2016-09-07 11:38:13,752:omni        :DEBUG   : checking config
+2016-09-07 11:38:13,753:omni        :ERROR   : CONFIG ERROR: XRef from_group missing from nodes: precip_ts_moist_cons:from_group:nc1_moist_cons
+2016-09-07 11:38:13,753:omni        :ERROR   : To check all config errors run:
+omni check-config
+2016-09-07 11:39:37,386:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:39:37,405:omni        :DEBUG   : omni shell
+2016-09-07 11:39:37,405:omni        :DEBUG   : checking config
+2016-09-07 11:39:37,405:omni        :DEBUG   : config OK
+2016-09-07 11:39:37,406:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:39:37,406:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 11:39:37,406:omni        :DEBUG   : catching all exceptions
+2016-09-07 11:39:37,672:omni        :ERROR   : 'remote'
+2016-09-07 11:39:51,065:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:39:51,066:omni        :DEBUG   : omni -x shell
+2016-09-07 11:39:51,066:omni        :DEBUG   : checking config
+2016-09-07 11:39:51,066:omni        :DEBUG   : config OK
+2016-09-07 11:39:51,067:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:39:51,067:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 11:41:41,511:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:41:41,521:omni        :DEBUG   : omni -x shell
+2016-09-07 11:41:41,521:omni        :DEBUG   : checking config
+2016-09-07 11:41:41,522:omni        :DEBUG   : config OK
+2016-09-07 11:41:41,522:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:41:41,522:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.py'>
+2016-09-07 11:42:02,506:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:42:02,507:omni        :DEBUG   : omni -x shell
+2016-09-07 11:42:02,507:omni        :DEBUG   : checking config
+2016-09-07 11:42:02,508:omni        :DEBUG   : config OK
+2016-09-07 11:42:02,508:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:42:02,508:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.py'>
+2016-09-07 11:42:24,189:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:42:24,194:omni        :DEBUG   : omni -x shell
+2016-09-07 11:42:24,194:omni        :DEBUG   : checking config
+2016-09-07 11:42:24,195:omni        :DEBUG   : config OK
+2016-09-07 11:42:24,195:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:42:24,196:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.py'>
+2016-09-07 11:42:47,007:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:42:47,008:omni        :DEBUG   : omni -x shell
+2016-09-07 11:42:47,008:omni        :DEBUG   : checking config
+2016-09-07 11:42:47,009:omni        :DEBUG   : config OK
+2016-09-07 11:42:47,009:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:42:47,009:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.py'>
+2016-09-07 11:44:29,934:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/20day/u-af095_64x64km2_1km_2day_moist_profile_moist_cons/work/2000??????????/atmos/atmos.pp5
+2016-09-07 11:44:30,050:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/20day/u-af095_64x64km2_1km_2day_moist_profile_no_moist_cons/work/2000??????????/atmos/atmos.pp5
+2016-09-07 11:44:30,076:omni        :DEBUG   : <Batch batch0 (id=1, status=None)>
+2016-09-07 11:44:30,077:omni        :DEBUG   :   <Group pp5_moist_cons (id=1, status=None)>
+2016-09-07 11:44:30,079:omni        :DEBUG   :   <Group pp5_no_moist_cons (id=3, status=None)>
+2016-09-07 11:44:30,099:omni        :DEBUG   : <Batch batch1 (id=2, status=None)>
+2016-09-07 11:44:30,102:omni        :DEBUG   :   <Group nc5_moist_cons (id=2, status=None)>
+2016-09-07 11:44:30,105:omni        :DEBUG   :   <Group nc5_no_moist_cons (id=4, status=None)>
+2016-09-07 11:44:30,106:omni        :DEBUG   : <Batch batch2 (id=3, status=None)>
+2016-09-07 11:44:30,108:omni        :DEBUG   : <Batch batch3 (id=4, status=None)>
+2016-09-07 11:44:30,109:omni        :DEBUG   : 
+2016-09-07 11:45:21,416:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:45:21,421:omni        :DEBUG   : omni --DEBUG -x shell
+2016-09-07 11:45:21,422:omni        :DEBUG   : checking config
+2016-09-07 11:45:21,422:omni        :DEBUG   : config OK
+2016-09-07 11:45:21,423:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:45:21,423:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 11:45:37,638:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/20day/u-af095_64x64km2_1km_2day_moist_profile_moist_cons/work/2000??????????/atmos/atmos.pp5
+2016-09-07 11:45:37,748:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/20day/u-af095_64x64km2_1km_2day_moist_profile_no_moist_cons/work/2000??????????/atmos/atmos.pp5
+2016-09-07 11:45:37,778:omni        :DEBUG   : <Batch batch0 (id=1, status=None)>
+2016-09-07 11:45:37,780:omni        :DEBUG   :   <Group pp5_moist_cons (id=1, status=None)>
+2016-09-07 11:45:37,782:omni        :DEBUG   :   <Group pp5_no_moist_cons (id=3, status=None)>
+2016-09-07 11:45:37,783:omni        :DEBUG   : <Batch batch1 (id=2, status=None)>
+2016-09-07 11:45:37,785:omni        :DEBUG   :   <Group nc5_moist_cons (id=2, status=None)>
+2016-09-07 11:45:37,786:omni        :DEBUG   :   <Group nc5_no_moist_cons (id=4, status=None)>
+2016-09-07 11:45:37,788:omni        :DEBUG   : <Batch batch2 (id=3, status=None)>
+2016-09-07 11:45:37,789:omni        :DEBUG   : <Batch batch3 (id=4, status=None)>
+2016-09-07 11:45:37,790:omni        :DEBUG   : 
+2016-09-07 11:47:28,499:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 11:47:28,513:omni        :DEBUG   : omni --DEBUG -x shell
+2016-09-07 11:47:28,513:omni        :DEBUG   : checking config
+2016-09-07 11:47:28,514:omni        :DEBUG   : config OK
+2016-09-07 11:47:28,514:omni        :WARNING : Disabling Python warnings
+2016-09-07 11:47:28,514:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 11:47:32,267:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_moist_cons/work/2000??????????/atmos2/atmos.pp5
+2016-09-07 11:47:32,395:omni        :DEBUG   : creating node None: 20000101T0000Z/atmos2/atmos.pp5
+2016-09-07 11:47:32,413:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_no_moist_cons/work/2000??????????/atmos2/atmos.pp5
+2016-09-07 11:47:32,495:omni        :DEBUG   : creating node None: 20000101T0000Z/atmos2/atmos.pp5
+2016-09-07 11:47:32,527:omni        :DEBUG   : creating node None: atmos.5.nc
+2016-09-07 11:47:32,534:omni        :DEBUG   : creating node None: atmos.5.nc
+2016-09-07 11:47:32,543:omni        :DEBUG   : <Batch batch0 (id=1, status=None)>
+2016-09-07 11:47:32,545:omni        :DEBUG   :   <Group pp5_moist_cons (id=1, status=None)>
+2016-09-07 11:47:32,547:omni        :DEBUG   :     <Node atmos.pp5 (id=1, status=done)>
+2016-09-07 11:47:32,548:omni        :DEBUG   :   <Group pp5_no_moist_cons (id=3, status=None)>
+2016-09-07 11:47:32,550:omni        :DEBUG   :     <Node atmos.pp5 (id=2, status=done)>
+2016-09-07 11:47:32,550:omni        :DEBUG   : <Batch batch1 (id=2, status=None)>
+2016-09-07 11:47:32,553:omni        :DEBUG   :   <Group nc5_moist_cons (id=2, status=None)>
+2016-09-07 11:47:32,555:omni        :DEBUG   :     <Node atmos.5.nc (id=3, status=missing)>
+2016-09-07 11:47:32,556:omni        :DEBUG   :   <Group nc5_no_moist_cons (id=4, status=None)>
+2016-09-07 11:47:32,558:omni        :DEBUG   :     <Node atmos.5.nc (id=4, status=missing)>
+2016-09-07 11:47:32,558:omni        :DEBUG   : <Batch batch2 (id=3, status=None)>
+2016-09-07 11:47:32,559:omni        :DEBUG   : <Batch batch3 (id=4, status=None)>
+2016-09-07 11:47:32,561:omni        :DEBUG   : 
+2016-09-07 11:49:30,732:omni        :INFO    :     Processing node <Node atmos.5.nc (id=3, status=missing)>
+2016-09-07 11:49:30,737:omni        :INFO    :       Using process convert_pp_to_nc
+2016-09-07 11:49:30,737:omni        :DEBUG   : loading <Node atmos.5.nc (id=3, status=missing)>
+2016-09-07 11:50:04,120:omni        :DEBUG   : running <Node atmos.5.nc (id=3, status=missing)>
+2016-09-07 11:50:04,121:omni        :DEBUG   : saving <Node atmos.5.nc (id=3, status=missing)>
+2016-09-07 11:50:04,127:omni        :DEBUG   : Creating dir /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_moist_cons/results
+2016-09-07 11:50:43,333:omni        :DEBUG   : finished <Node atmos.5.nc (id=3, status=done)>
+2016-09-07 11:50:43,334:omni        :INFO    :     Processed <Node atmos.5.nc (id=3, status=done)>
+2016-09-07 11:50:50,500:omni        :INFO    :     Processing node <Node atmos.5.nc (id=4, status=missing)>
+2016-09-07 11:50:50,512:omni        :INFO    :       Using process convert_pp_to_nc
+2016-09-07 11:50:50,513:omni        :DEBUG   : loading <Node atmos.5.nc (id=4, status=missing)>
+2016-09-07 11:51:24,045:omni        :DEBUG   : running <Node atmos.5.nc (id=4, status=missing)>
+2016-09-07 11:51:24,045:omni        :DEBUG   : saving <Node atmos.5.nc (id=4, status=missing)>
+2016-09-07 11:51:24,048:omni        :DEBUG   : Creating dir /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_no_moist_cons/results
+2016-09-07 11:52:04,722:omni        :DEBUG   : finished <Node atmos.5.nc (id=4, status=done)>
+2016-09-07 11:52:04,738:omni        :INFO    :     Processed <Node atmos.5.nc (id=4, status=done)>
+2016-09-07 12:09:32,482:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 12:09:32,504:omni        :DEBUG   : omni --DEBUG -x shell
+2016-09-07 12:09:32,505:omni        :DEBUG   : checking config
+2016-09-07 12:09:32,506:omni        :ERROR   : CONFIG ERROR: XRef from_group missing from nodes: q_incr_ls_rain_profile_moist_cons:from_group:nc1_moist_cons
+2016-09-07 12:09:32,506:omni        :ERROR   : To check all config errors run:
+omni check-config
+2016-09-07 12:11:35,976:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 12:11:35,988:omni        :DEBUG   : omni --DEBUG -x shell
+2016-09-07 12:11:35,988:omni        :DEBUG   : checking config
+2016-09-07 12:11:35,989:omni        :DEBUG   : config OK
+2016-09-07 12:11:35,989:omni        :WARNING : Disabling Python warnings
+2016-09-07 12:11:35,990:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 12:11:53,259:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_moist_cons/work/2000??????????/atmos2/atmos.pp5
+2016-09-07 12:11:53,527:omni        :DEBUG   : creating node None: 20000101T0000Z/atmos2/atmos.pp5
+2016-09-07 12:13:20,393:omni        :DEBUG   : Created root logger: omni.log
+2016-09-07 12:13:20,413:omni        :DEBUG   : omni --DEBUG -x shell
+2016-09-07 12:13:20,413:omni        :DEBUG   : checking config
+2016-09-07 12:13:20,414:omni        :DEBUG   : config OK
+2016-09-07 12:13:20,414:omni        :WARNING : Disabling Python warnings
+2016-09-07 12:13:20,414:omni        :DEBUG   : running cmd: <module 'omni_cmds.shell' from '/nerc/n02/n02/mmuetz/opt/omnium/src/python/omnium/omni_cmds/shell.pyc'>
+2016-09-07 12:13:22,927:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_moist_cons/work/2000??????????/atmos2/atmos.pp5
+2016-09-07 12:13:23,002:omni        :DEBUG   : creating node None: 20000101T0000Z/atmos2/atmos.pp5
+2016-09-07 12:13:23,033:omni        :DEBUG   : creating node q_incr_ls_rain_profile_moist_cons: q_incr_ls_rain_profile_moist_cons.nc
+2016-09-07 12:13:23,062:omni        :DEBUG   : creating node q_incr_bl_plus_cloud_profile_moist_cons: q_incr_bl_plus_cloud_profile_moist_cons.nc
+2016-09-07 12:13:23,067:omni        :DEBUG   : creating node q_incr_adv_profile_moist_cons: q_incr_adv_profile_moist_cons.nc
+2016-09-07 12:13:23,070:omni        :DEBUG   : creating node q_incr_total_profile_moist_cons: q_incr_total_profile_moist_cons.nc
+2016-09-07 12:13:23,136:omni        :DEBUG   : creating node profile_plots_moist_cons: profile_plots_moist_cons.png
+2016-09-07 12:13:23,142:omni        :DEBUG   : Using filename glob: /nerc/n02/n02/mmuetz/um10.5_runs/2day/u-af095_64x64km2_1km_2day_moist_profile_no_moist_cons/work/2000??????????/atmos2/atmos.pp5
+2016-09-07 12:13:23,209:omni        :DEBUG   : creating node None: 20000101T0000Z/atmos2/atmos.pp5
+2016-09-07 12:13:23,241:omni        :DEBUG   : creating node q_incr_ls_rain_profile_no_moist_cons: q_incr_ls_rain_profile_no_moist_cons.nc
+2016-09-07 12:13:23,248:omni        :DEBUG   : creating node q_incr_bl_plus_cloud_profile_no_moist_cons: q_incr_bl_plus_cloud_profile_no_moist_cons.nc
+2016-09-07 12:13:23,254:omni        :DEBUG   : creating node q_incr_adv_profile_no_moist_cons: q_incr_adv_profile_no_moist_cons.nc
+2016-09-07 12:13:23,258:omni        :DEBUG   : creating node q_incr_total_profile_no_moist_cons: q_incr_total_profile_no_moist_cons.nc
+2016-09-07 12:13:23,261:omni        :DEBUG   : creating node profile_plots_no_moist_cons: profile_plots_no_moist_cons.png
+2016-09-07 12:13:23,286:omni        :DEBUG   : creating node None: atmos.5.nc
+2016-09-07 12:13:23,305:omni        :DEBUG   : creating node None: atmos.5.nc
+2016-09-07 12:13:23,360:omni        :DEBUG   : <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:13:23,360:omni        :DEBUG   : q_incr_ls_rain_profile_moist_cons
+2016-09-07 12:13:23,363:omni        :DEBUG   : q_incr_bl_plus_cloud_profile_moist_cons
+2016-09-07 12:13:23,366:omni        :DEBUG   : q_incr_adv_profile_moist_cons
+2016-09-07 12:13:23,369:omni        :DEBUG   : q_incr_total_profile_moist_cons
+2016-09-07 12:13:23,397:omni        :DEBUG   : <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:13:23,398:omni        :DEBUG   : q_incr_ls_rain_profile_no_moist_cons
+2016-09-07 12:13:23,401:omni        :DEBUG   : q_incr_bl_plus_cloud_profile_no_moist_cons
+2016-09-07 12:13:23,403:omni        :DEBUG   : q_incr_adv_profile_no_moist_cons
+2016-09-07 12:13:23,406:omni        :DEBUG   : q_incr_total_profile_no_moist_cons
+2016-09-07 12:13:23,419:omni        :DEBUG   : <Batch batch0 (id=1, status=None)>
+2016-09-07 12:13:23,422:omni        :DEBUG   :   <Group pp5_moist_cons (id=1, status=None)>
+2016-09-07 12:13:23,425:omni        :DEBUG   :     <Node atmos.pp5 (id=1, status=done)>
+2016-09-07 12:13:23,426:omni        :DEBUG   :   <Group pp5_no_moist_cons (id=5, status=None)>
+2016-09-07 12:13:23,427:omni        :DEBUG   :     <Node atmos.pp5 (id=7, status=done)>
+2016-09-07 12:13:23,428:omni        :DEBUG   : <Batch batch1 (id=2, status=None)>
+2016-09-07 12:13:23,429:omni        :DEBUG   :   <Group nc5_moist_cons (id=2, status=None)>
+2016-09-07 12:13:23,431:omni        :DEBUG   :     <Node atmos.5.nc (id=13, status=done)>
+2016-09-07 12:13:23,431:omni        :DEBUG   :   <Group nc5_no_moist_cons (id=6, status=None)>
+2016-09-07 12:13:23,433:omni        :DEBUG   :     <Node atmos.5.nc (id=14, status=done)>
+2016-09-07 12:13:23,433:omni        :DEBUG   : <Batch batch2 (id=3, status=None)>
+2016-09-07 12:13:23,434:omni        :DEBUG   :   <Group profiles_moist_cons (id=3, status=None)>
+2016-09-07 12:13:23,436:omni        :DEBUG   :     <Node q_incr_ls_rain_profile_moist_cons (id=2, status=missing)>
+2016-09-07 12:13:23,436:omni        :DEBUG   :     <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=missing)>
+2016-09-07 12:13:23,437:omni        :DEBUG   :     <Node q_incr_adv_profile_moist_cons (id=4, status=missing)>
+2016-09-07 12:13:23,437:omni        :DEBUG   :     <Node q_incr_total_profile_moist_cons (id=5, status=missing)>
+2016-09-07 12:13:23,438:omni        :DEBUG   :   <Group profiles_no_moist_cons (id=7, status=None)>
+2016-09-07 12:13:23,439:omni        :DEBUG   :     <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=missing)>
+2016-09-07 12:13:23,440:omni        :DEBUG   :     <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=missing)>
+2016-09-07 12:13:23,440:omni        :DEBUG   :     <Node q_incr_adv_profile_no_moist_cons (id=10, status=missing)>
+2016-09-07 12:13:23,440:omni        :DEBUG   :     <Node q_incr_total_profile_no_moist_cons (id=11, status=missing)>
+2016-09-07 12:13:23,440:omni        :DEBUG   : <Batch batch3 (id=4, status=None)>
+2016-09-07 12:13:23,441:omni        :DEBUG   :   <Group profile_plots_moist_cons (id=4, status=None)>
+2016-09-07 12:13:23,443:omni        :DEBUG   :     <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:13:23,443:omni        :DEBUG   :   <Group profile_plots_no_moist_cons (id=8, status=None)>
+2016-09-07 12:13:23,445:omni        :DEBUG   :     <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:13:23,445:omni        :DEBUG   : 
+2016-09-07 12:14:13,649:omni        :INFO    : Processing batch <Batch batch2 (id=3, status=None)>
+2016-09-07 12:14:13,653:omni        :INFO    :   Processing group <Group profiles_moist_cons (id=3, status=None)>
+2016-09-07 12:14:13,653:omni        :INFO    :     Processing node <Node q_incr_ls_rain_profile_moist_cons (id=2, status=missing)>
+2016-09-07 12:14:13,657:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:13,657:omni        :DEBUG   : loading <Node q_incr_ls_rain_profile_moist_cons (id=2, status=missing)>
+2016-09-07 12:14:14,920:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:14,920:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:14,920:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:14,920:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:14,921:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:14,921:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:14,921:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:14,921:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:14,922:omni        :DEBUG   : running <Node q_incr_ls_rain_profile_moist_cons (id=2, status=missing)>
+2016-09-07 12:14:14,922:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:15,528:omni        :DEBUG   : saving <Node q_incr_ls_rain_profile_moist_cons (id=2, status=missing)>
+2016-09-07 12:14:15,561:omni        :DEBUG   : finished <Node q_incr_ls_rain_profile_moist_cons (id=2, status=done)>
+2016-09-07 12:14:15,561:omni        :INFO    :     Processed <Node q_incr_ls_rain_profile_moist_cons (id=2, status=done)>
+2016-09-07 12:14:15,562:omni        :INFO    :     Processing node <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=missing)>
+2016-09-07 12:14:15,580:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:15,580:omni        :DEBUG   : loading <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=missing)>
+2016-09-07 12:14:15,987:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:15,987:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:15,988:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:15,989:omni        :DEBUG   : running <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=missing)>
+2016-09-07 12:14:15,989:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:16,641:omni        :DEBUG   : saving <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=missing)>
+2016-09-07 12:14:16,655:omni        :DEBUG   : finished <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=done)>
+2016-09-07 12:14:16,655:omni        :INFO    :     Processed <Node q_incr_bl_plus_cloud_profile_moist_cons (id=3, status=done)>
+2016-09-07 12:14:16,655:omni        :INFO    :     Processing node <Node q_incr_adv_profile_moist_cons (id=4, status=missing)>
+2016-09-07 12:14:16,658:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:16,658:omni        :DEBUG   : loading <Node q_incr_adv_profile_moist_cons (id=4, status=missing)>
+2016-09-07 12:14:17,015:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:17,015:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:17,015:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s09i183
+2016-09-07 12:14:17,016:omni        :DEBUG   : m01s30i189
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s30i403
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s00i004
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s30i406
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s30i405
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s30i404
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s00i012
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s00i254
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s00i010
+2016-09-07 12:14:17,017:omni        :DEBUG   : m01s30i181
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s12i181
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s30i184
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s12i184
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s30i183
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s12i183
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s30i182
+2016-09-07 12:14:17,018:omni        :DEBUG   : m01s12i182
+2016-09-07 12:14:17,019:omni        :DEBUG   : running <Node q_incr_adv_profile_moist_cons (id=4, status=missing)>
+2016-09-07 12:14:17,019:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:17,565:omni        :DEBUG   : saving <Node q_incr_adv_profile_moist_cons (id=4, status=missing)>
+2016-09-07 12:14:17,577:omni        :DEBUG   : finished <Node q_incr_adv_profile_moist_cons (id=4, status=done)>
+2016-09-07 12:14:17,577:omni        :INFO    :     Processed <Node q_incr_adv_profile_moist_cons (id=4, status=done)>
+2016-09-07 12:14:17,578:omni        :INFO    :     Processing node <Node q_incr_total_profile_moist_cons (id=5, status=missing)>
+2016-09-07 12:14:17,580:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:17,580:omni        :DEBUG   : loading <Node q_incr_total_profile_moist_cons (id=5, status=missing)>
+2016-09-07 12:14:17,939:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:17,940:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:17,941:omni        :DEBUG   : m01s09i183
+2016-09-07 12:14:17,941:omni        :DEBUG   : m01s30i189
+2016-09-07 12:14:17,941:omni        :DEBUG   : m01s30i403
+2016-09-07 12:14:17,941:omni        :DEBUG   : m01s00i004
+2016-09-07 12:14:17,942:omni        :DEBUG   : m01s30i406
+2016-09-07 12:14:17,942:omni        :DEBUG   : m01s30i405
+2016-09-07 12:14:17,942:omni        :DEBUG   : m01s30i404
+2016-09-07 12:14:17,942:omni        :DEBUG   : m01s00i012
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s00i254
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s00i010
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s30i181
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s12i181
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s30i184
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s12i184
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s30i183
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s12i183
+2016-09-07 12:14:17,943:omni        :DEBUG   : m01s30i182
+2016-09-07 12:14:17,944:omni        :DEBUG   : running <Node q_incr_total_profile_moist_cons (id=5, status=missing)>
+2016-09-07 12:14:17,944:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:18,507:omni        :DEBUG   : saving <Node q_incr_total_profile_moist_cons (id=5, status=missing)>
+2016-09-07 12:14:18,562:omni        :DEBUG   : finished <Node q_incr_total_profile_moist_cons (id=5, status=done)>
+2016-09-07 12:14:18,562:omni        :INFO    :     Processed <Node q_incr_total_profile_moist_cons (id=5, status=done)>
+2016-09-07 12:14:18,562:omni        :INFO    :   Processed group <Group profiles_moist_cons (id=3, status=done)>
+2016-09-07 12:14:18,562:omni        :INFO    :   Processing group <Group profiles_no_moist_cons (id=7, status=None)>
+2016-09-07 12:14:18,563:omni        :INFO    :     Processing node <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=missing)>
+2016-09-07 12:14:18,566:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:18,566:omni        :DEBUG   : loading <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=missing)>
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:19,307:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:19,308:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:19,308:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:19,308:omni        :DEBUG   : running <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=missing)>
+2016-09-07 12:14:19,308:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_no_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:19,864:omni        :DEBUG   : saving <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=missing)>
+2016-09-07 12:14:19,898:omni        :DEBUG   : finished <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=done)>
+2016-09-07 12:14:19,898:omni        :INFO    :     Processed <Node q_incr_ls_rain_profile_no_moist_cons (id=8, status=done)>
+2016-09-07 12:14:19,898:omni        :INFO    :     Processing node <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=missing)>
+2016-09-07 12:14:19,900:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:19,901:omni        :DEBUG   : loading <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=missing)>
+2016-09-07 12:14:20,262:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:20,262:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:20,262:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:20,262:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:20,262:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:20,263:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:20,263:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:20,263:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:20,263:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:20,263:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:20,263:omni        :DEBUG   : running <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=missing)>
+2016-09-07 12:14:20,264:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_no_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:20,868:omni        :DEBUG   : saving <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=missing)>
+2016-09-07 12:14:20,892:omni        :DEBUG   : finished <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=done)>
+2016-09-07 12:14:20,892:omni        :INFO    :     Processed <Node q_incr_bl_plus_cloud_profile_no_moist_cons (id=9, status=done)>
+2016-09-07 12:14:20,892:omni        :INFO    :     Processing node <Node q_incr_adv_profile_no_moist_cons (id=10, status=missing)>
+2016-09-07 12:14:20,895:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:20,895:omni        :DEBUG   : loading <Node q_incr_adv_profile_no_moist_cons (id=10, status=missing)>
+2016-09-07 12:14:21,248:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:21,248:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:21,249:omni        :DEBUG   : m01s09i183
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s30i189
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s30i403
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s00i004
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s30i406
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s30i405
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s30i404
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s00i012
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s00i254
+2016-09-07 12:14:21,250:omni        :DEBUG   : m01s00i010
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s30i181
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s12i181
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s30i184
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s12i184
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s30i183
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s12i183
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s30i182
+2016-09-07 12:14:21,251:omni        :DEBUG   : m01s12i182
+2016-09-07 12:14:21,252:omni        :DEBUG   : running <Node q_incr_adv_profile_no_moist_cons (id=10, status=missing)>
+2016-09-07 12:14:21,252:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_no_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:21,779:omni        :DEBUG   : saving <Node q_incr_adv_profile_no_moist_cons (id=10, status=missing)>
+2016-09-07 12:14:21,810:omni        :DEBUG   : finished <Node q_incr_adv_profile_no_moist_cons (id=10, status=done)>
+2016-09-07 12:14:21,810:omni        :INFO    :     Processed <Node q_incr_adv_profile_no_moist_cons (id=10, status=done)>
+2016-09-07 12:14:21,810:omni        :INFO    :     Processing node <Node q_incr_total_profile_no_moist_cons (id=11, status=missing)>
+2016-09-07 12:14:21,813:omni        :INFO    :       Using process domain_mean
+2016-09-07 12:14:21,813:omni        :DEBUG   : loading <Node q_incr_total_profile_no_moist_cons (id=11, status=missing)>
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s12i189
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s12i190
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i189
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i190
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i183
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i184
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i181
+2016-09-07 12:14:22,168:omni        :DEBUG   : m01s04i182
+2016-09-07 12:14:22,169:omni        :DEBUG   : m01s09i181
+2016-09-07 12:14:22,169:omni        :DEBUG   : m01s09i182
+2016-09-07 12:14:22,169:omni        :DEBUG   : m01s09i183
+2016-09-07 12:14:22,188:omni        :DEBUG   : m01s30i189
+2016-09-07 12:14:22,188:omni        :DEBUG   : m01s30i403
+2016-09-07 12:14:22,188:omni        :DEBUG   : m01s00i004
+2016-09-07 12:14:22,188:omni        :DEBUG   : m01s30i406
+2016-09-07 12:14:22,188:omni        :DEBUG   : m01s30i405
+2016-09-07 12:14:22,189:omni        :DEBUG   : m01s30i404
+2016-09-07 12:14:22,189:omni        :DEBUG   : m01s00i012
+2016-09-07 12:14:22,189:omni        :DEBUG   : m01s00i254
+2016-09-07 12:14:22,189:omni        :DEBUG   : m01s00i010
+2016-09-07 12:14:22,190:omni        :DEBUG   : m01s30i181
+2016-09-07 12:14:22,190:omni        :DEBUG   : m01s12i181
+2016-09-07 12:14:22,190:omni        :DEBUG   : m01s30i184
+2016-09-07 12:14:22,191:omni        :DEBUG   : m01s12i184
+2016-09-07 12:14:22,191:omni        :DEBUG   : m01s30i183
+2016-09-07 12:14:22,191:omni        :DEBUG   : m01s12i183
+2016-09-07 12:14:22,191:omni        :DEBUG   : m01s30i182
+2016-09-07 12:14:22,193:omni        :DEBUG   : running <Node q_incr_total_profile_no_moist_cons (id=11, status=missing)>
+2016-09-07 12:14:22,193:omni        :DEBUG   : Loading cube /nerc/n02/n02/mmuetz/omni_output/u-af095_64x64km2_2day_moist_profile_no_moist_cons/results/atmos.5.nc
+2016-09-07 12:14:22,728:omni        :DEBUG   : saving <Node q_incr_total_profile_no_moist_cons (id=11, status=missing)>
+2016-09-07 12:14:22,752:omni        :DEBUG   : finished <Node q_incr_total_profile_no_moist_cons (id=11, status=done)>
+2016-09-07 12:14:22,753:omni        :INFO    :     Processed <Node q_incr_total_profile_no_moist_cons (id=11, status=done)>
+2016-09-07 12:14:22,753:omni        :INFO    :   Processed group <Group profiles_no_moist_cons (id=7, status=done)>
+2016-09-07 12:14:22,753:omni        :INFO    : Processed batch <Batch batch2 (id=3, status=done)>
+2016-09-07 12:14:33,683:omni        :INFO    : Processing batch <Batch batch3 (id=4, status=None)>
+2016-09-07 12:14:33,686:omni        :INFO    :   Processing group <Group profile_plots_moist_cons (id=4, status=None)>
+2016-09-07 12:14:33,688:omni        :INFO    :     Processing node <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:14:33,690:omni        :INFO    :       Using process plot_last_profile
+2016-09-07 12:14:33,690:omni        :DEBUG   : loading <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:14:33,808:omni        :DEBUG   : running <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:14:35,016:omni        :INFO    : Renaming unknown_9->SPEC HUMIDITY INC: bdy layr + ls cld
+2016-09-07 12:14:35,097:omni        :INFO    : Renaming unknown_1->SPECIFIC HUMIDITY INCR: ls rain
+2016-09-07 12:14:35,156:omni        :DEBUG   : saving <Node profile_plots_moist_cons (id=6, status=missing)>
+2016-09-07 12:14:35,505:omni        :DEBUG   : finished <Node profile_plots_moist_cons (id=6, status=done)>
+2016-09-07 12:14:35,506:omni        :INFO    :     Processed <Node profile_plots_moist_cons (id=6, status=done)>
+2016-09-07 12:14:35,506:omni        :INFO    :   Processed group <Group profile_plots_moist_cons (id=4, status=done)>
+2016-09-07 12:14:35,506:omni        :INFO    :   Processing group <Group profile_plots_no_moist_cons (id=8, status=None)>
+2016-09-07 12:14:35,509:omni        :INFO    :     Processing node <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:14:35,511:omni        :INFO    :       Using process plot_last_profile
+2016-09-07 12:14:35,511:omni        :DEBUG   : loading <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:14:35,591:omni        :DEBUG   : running <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:14:35,600:omni        :INFO    : Renaming unknown_1->SPECIFIC HUMIDITY INCR: ls rain
+2016-09-07 12:14:35,659:omni        :INFO    : Renaming unknown_9->SPEC HUMIDITY INC: bdy layr + ls cld
+2016-09-07 12:14:35,702:omni        :DEBUG   : saving <Node profile_plots_no_moist_cons (id=12, status=missing)>
+2016-09-07 12:14:35,982:omni        :DEBUG   : finished <Node profile_plots_no_moist_cons (id=12, status=done)>
+2016-09-07 12:14:35,982:omni        :INFO    :     Processed <Node profile_plots_no_moist_cons (id=12, status=done)>
+2016-09-07 12:14:35,982:omni        :INFO    :   Processed group <Group profile_plots_no_moist_cons (id=8, status=done)>
+2016-09-07 12:14:35,983:omni        :INFO    : Processed batch <Batch batch3 (id=4, status=done)>
