@@ -424,3 +424,4 @@ omni check-config
 2016-09-07 12:14:35,982:omni        :INFO    :     Processed <Node profile_plots_no_moist_cons (id=12, status=done)>
 2016-09-07 12:14:35,982:omni        :INFO    :   Processed group <Group profile_plots_no_moist_cons (id=8, status=done)>
 2016-09-07 12:14:35,983:omni        :INFO    : Processed batch <Batch batch3 (id=4, status=done)>
+2016-09-07 12:25:47,430:omni        :INFO    : All nodes statuses verified
